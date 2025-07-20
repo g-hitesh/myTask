@@ -3,7 +3,7 @@
 </p>
 <p align="center"><h1 align="center">myTask</h1></p>
 <p align="center">
-   <a href="https://app-mytask.netlify.app/"> ❯ myTask - Link</a>
+   <a href="https://app-mytask.netlify.app/" target="_blank"> ❯ myTask - Link</a>
 </p>
 <p align="center">
     <img src="https://img.shields.io/github/license/g-hitesh/myTask?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
@@ -80,11 +80,11 @@
         <blockquote>
             <table>
             <tr>
-                <td><b><a href='https://github.com/g-hitesh/myTask/blob/master/postcss.config.js'>postcss.config.js</a></b></td>
+                <td><b><a href='https://github.com/g-hitesh/myTask/blob/master/postcss.config.js' target="_blank">postcss.config.js</a></b></td>
                 <!-- <td><code>❯ REPLACE-ME</code></td> -->
             </tr>
             <tr>
-                <td><b><a href='https://github.com/g-hitesh/myTask/blob/master/package-lock.json'>package-lock.json</a></b></td>
+                <td><b><a href='https://github.com/g-hitesh/myTask/blob/master/package-lock.json' target="_blank">package-lock.json</a></b></td>
                 <!-- <td><code>❯ REPLACE-ME</code></td> -->
             </tr>
             <tr>
