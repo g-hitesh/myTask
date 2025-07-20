@@ -3,7 +3,7 @@
 </p>
 <p align="center"><h1 align="center">myTask</h1></p>
 <p align="center">
-    <em><code>❯ myTask</code></em>
+   <a href="https://app-mytask.netlify.app/"> ❯ myTask - Link</a>
 </p>
 <p align="center">
     <img src="https://img.shields.io/github/license/g-hitesh/myTask?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
